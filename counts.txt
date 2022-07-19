@@ -1,0 +1,2342 @@
+the: 205 times
+
+he: 137 times
+
+a: 112 times
+
+and: 103 times
+
+to: 94 times
+
+was: 89 times
+
+it: 77 times
+
+of: 75 times
+
+his: 70 times
+
+in: 57 times
+
+that: 53 times
+
+on: 51 times
+
+as: 47 times
+
+dursley: 45 times
+
+had: 39 times
+
+i: 37 times
+
+dumbledore: 36 times
+
+at: 34 times
+
+have: 33 times
+
+said: 32 times
+
+all: 32 times
+
+but: 31 times
+
+professor: 30 times
+
+be: 30 times
+
+you: 30 times
+
+mr: 30 times
+
+him: 26 times
+
+she: 26 times
+
+mcgonagall: 25 times
+
+for: 24 times
+
+were: 23 times
+
+out: 22 times
+
+her: 22 times
+
+didnt: 22 times
+
+they: 22 times
+
+been: 21 times
+
+people: 21 times
+
+mrs: 21 times
+
+cat: 20 times
+
+harry: 20 times
+
+them: 17 times
+
+into: 17 times
+
+if: 17 times
+
+over: 17 times
+
+very: 17 times
+
+this: 16 times
+
+no: 16 times
+
+with: 16 times
+
+not: 15 times
+
+back: 15 times
+
+up: 14 times
+
+street: 14 times
+
+about: 14 times
+
+could: 14 times
+
+so: 14 times
+
+its: 13 times
+
+couldnt: 13 times
+
+something: 13 times
+
+what: 13 times
+
+there: 13 times
+
+know: 12 times
+
+even: 12 times
+
+hagrid: 11 times
+
+name: 11 times
+
+down: 11 times
+
+owls: 11 times
+
+yes: 11 times
+
+potters: 11 times
+
+would: 11 times
+
+their: 11 times
+
+potter: 11 times
+
+here: 10 times
+
+well: 10 times
+
+saying: 10 times
+
+eyes: 10 times
+
+by: 10 times
+
+around: 10 times
+
+when: 10 times
+
+never: 10 times
+
+looked: 9 times
+
+hed: 9 times
+
+cloak: 9 times
+
+see: 9 times
+
+day: 9 times
+
+thought: 9 times
+
+little: 9 times
+
+like: 9 times
+
+dursleys: 9 times
+
+did: 9 times
+
+man: 9 times
+
+just: 9 times
+
+drive: 9 times
+
+who: 9 times
+
+boy: 9 times
+
+are: 8 times
+
+how: 8 times
+
+me: 8 times
+
+next: 8 times
+
+why: 8 times
+
+now: 8 times
+
+seen: 8 times
+
+think: 8 times
+
+dudley: 8 times
+
+last: 8 times
+
+privet: 8 times
+
+hes: 7 times
+
+theyre: 7 times
+
+can: 7 times
+
+wall: 7 times
+
+off: 7 times
+
+gone: 7 times
+
+my: 7 times
+
+from: 7 times
+
+though: 7 times
+
+an: 7 times
+
+corner: 7 times
+
+got: 7 times
+
+sister: 7 times
+
+son: 7 times
+
+which: 7 times
+
+because: 7 times
+
+much: 7 times
+
+say: 7 times
+
+number: 7 times
+
+one: 7 times
+
+youre: 6 times
+
+we: 6 times
+
+turned: 6 times
+
+two: 6 times
+
+only: 6 times
+
+going: 6 times
+
+suddenly: 6 times
+
+went: 6 times
+
+muggles: 6 times
+
+before: 6 times
+
+right: 6 times
+
+thats: 6 times
+
+until: 6 times
+
+fell: 6 times
+
+seemed: 6 times
+
+mind: 6 times
+
+himself: 6 times
+
+nothing: 6 times
+
+reason: 6 times
+
+found: 6 times
+
+drills: 6 times
+
+called: 6 times
+
+blankets: 5 times
+
+motorcycle: 5 times
+
+letter: 5 times
+
+is: 5 times
+
+will: 5 times
+
+lemon: 5 times
+
+cant: 5 times
+
+inside: 5 times
+
+stars: 5 times
+
+shooting: 5 times
+
+night: 5 times
+
+sitting: 5 times
+
+today: 5 times
+
+sir: 5 times
+
+still: 5 times
+
+come: 5 times
+
+being: 5 times
+
+almost: 5 times
+
+might: 5 times
+
+few: 5 times
+
+wearing: 5 times
+
+get: 5 times
+
+put: 5 times
+
+head: 5 times
+
+then: 5 times
+
+sign: 5 times
+
+left: 5 times
+
+window: 5 times
+
+most: 5 times
+
+things: 5 times
+
+too: 5 times
+
+large: 5 times
+
+any: 5 times
+
+made: 5 times
+
+or: 5 times
+
+anything: 5 times
+
+youd: 5 times
+
+normal: 5 times
+
+four: 5 times
+
+bundle: 4 times
+
+famous: 4 times
+
+ive: 4 times
+
+took: 4 times
+
+kill: 4 times
+
+voldemort: 4 times
+
+clicked: 4 times
+
+where: 4 times
+
+long: 4 times
+
+hair: 4 times
+
+asleep: 4 times
+
+front: 4 times
+
+oh: 4 times
+
+suppose: 4 times
+
+wouldnt: 4 times
+
+place: 4 times
+
+instead: 4 times
+
+tell: 4 times
+
+told: 4 times
+
+celebrating: 4 times
+
+has: 4 times
+
+youknowwho: 4 times
+
+dear: 4 times
+
+dont: 4 times
+
+door: 4 times
+
+walked: 4 times
+
+heard: 4 times
+
+way: 4 times
+
+after: 4 times
+
+daylight: 4 times
+
+these: 4 times
+
+some: 4 times
+
+cloaks: 4 times
+
+lot: 4 times
+
+morning: 4 times
+
+sat: 4 times
+
+gave: 4 times
+
+looking: 4 times
+
+road: 4 times
+
+light: 4 times
+
+must: 4 times
+
+tabby: 4 times
+
+look: 4 times
+
+house: 4 times
+
+past: 4 times
+
+owl: 4 times
+
+good: 4 times
+
+garden: 4 times
+
+mysterious: 4 times
+
+knowing: 3 times
+
+hell: 3 times
+
+live: 3 times
+
+hagrids: 3 times
+
+james: 3 times
+
+lily: 3 times
+
+believe: 3 times
+
+drop: 3 times
+
+black: 3 times
+
+glasses: 3 times
+
+moment: 3 times
+
+putouter: 3 times
+
+twelve: 3 times
+
+air: 3 times
+
+pocket: 3 times
+
+other: 3 times
+
+albus: 3 times
+
+boots: 3 times
+
+silver: 3 times
+
+watching: 3 times
+
+nor: 3 times
+
+do: 3 times
+
+petunia: 3 times
+
+explain: 3 times
+
+flying: 3 times
+
+finally: 3 times
+
+news: 3 times
+
+bed: 3 times
+
+normally: 3 times
+
+muggle: 3 times
+
+yourself: 3 times
+
+voice: 3 times
+
+face: 3 times
+
+ground: 3 times
+
+seem: 3 times
+
+old: 3 times
+
+same: 3 times
+
+upset: 3 times
+
+sure: 3 times
+
+changed: 3 times
+
+better: 3 times
+
+dead: 3 times
+
+stopped: 3 times
+
+passed: 3 times
+
+more: 3 times
+
+five: 3 times
+
+new: 3 times
+
+stupid: 3 times
+
+young: 3 times
+
+saw: 3 times
+
+dressed: 3 times
+
+hoping: 3 times
+
+town: 3 times
+
+toward: 3 times
+
+wasnt: 3 times
+
+again: 3 times
+
+realize: 3 times
+
+map: 3 times
+
+car: 3 times
+
+tried: 3 times
+
+half: 3 times
+
+noticed: 3 times
+
+outside: 3 times
+
+sky: 3 times
+
+our: 3 times
+
+away: 3 times
+
+another: 3 times
+
+arrived: 3 times
+
+years: 3 times
+
+bear: 3 times
+
+everything: 3 times
+
+small: 3 times
+
+time: 3 times
+
+came: 3 times
+
+twice: 3 times
+
+such: 3 times
+
+expect: 3 times
+
+whispered: 2 times
+
+under: 2 times
+
+bent: 2 times
+
+sirius: 2 times
+
+holding: 2 times
+
+arms: 2 times
+
+baby: 2 times
+
+huge: 2 times
+
+roar: 2 times
+
+low: 2 times
+
+life: 2 times
+
+trust: 2 times
+
+opened: 2 times
+
+written: 2 times
+
+feet: 2 times
+
+mean: 2 times
+
+uncle: 2 times
+
+aunt: 2 times
+
+hands: 2 times
+
+watch: 2 times
+
+great: 2 times
+
+handkerchief: 2 times
+
+may: 2 times
+
+find: 2 times
+
+true: 2 times
+
+reached: 2 times
+
+knows: 2 times
+
+everyone: 2 times
+
+sounding: 2 times
+
+voldemorts: 2 times
+
+frightened: 2 times
+
+call: 2 times
+
+drops: 2 times
+
+im: 2 times
+
+really: 2 times
+
+us: 2 times
+
+disappeared: 2 times
+
+seems: 2 times
+
+sharp: 2 times
+
+rumors: 2 times
+
+careless: 2 times
+
+eleven: 2 times
+
+weve: 2 times
+
+gently: 2 times
+
+sense: 2 times
+
+ill: 2 times
+
+notice: 2 times
+
+dark: 2 times
+
+everyones: 2 times
+
+sit: 2 times
+
+asked: 2 times
+
+ruffled: 2 times
+
+exactly: 2 times
+
+woman: 2 times
+
+rather: 2 times
+
+spoke: 2 times
+
+able: 2 times
+
+times: 2 times
+
+lamp: 2 times
+
+known: 2 times
+
+end: 2 times
+
+least: 2 times
+
+broken: 2 times
+
+nose: 2 times
+
+spectacles: 2 times
+
+halfmoon: 2 times
+
+enough: 2 times
+
+both: 2 times
+
+beard: 2 times
+
+tall: 2 times
+
+appeared: 2 times
+
+fixed: 2 times
+
+kind: 2 times
+
+lay: 2 times
+
+waiting: 2 times
+
+staring: 2 times
+
+heart: 2 times
+
+isnt: 2 times
+
+stiffly: 2 times
+
+havent: 2 times
+
+tea: 2 times
+
+whisper: 2 times
+
+theyve: 2 times
+
+kent: 2 times
+
+far: 2 times
+
+tonight: 2 times
+
+jim: 2 times
+
+allowed: 2 times
+
+since: 2 times
+
+every: 2 times
+
+ever: 2 times
+
+room: 2 times
+
+living: 2 times
+
+wont: 2 times
+
+word: 2 times
+
+problems: 2 times
+
+let: 2 times
+
+trying: 2 times
+
+wondered: 2 times
+
+markings: 2 times
+
+spotted: 2 times
+
+thing: 2 times
+
+pulled: 2 times
+
+imagining: 2 times
+
+set: 2 times
+
+whatever: 2 times
+
+stood: 2 times
+
+hugged: 2 times
+
+happy: 2 times
+
+should: 2 times
+
+stare: 2 times
+
+smile: 2 times
+
+wide: 2 times
+
+tiny: 2 times
+
+sorry: 2 times
+
+blame: 2 times
+
+mention: 2 times
+
+point: 2 times
+
+home: 2 times
+
+snapped: 2 times
+
+hurried: 2 times
+
+uneasy: 2 times
+
+angrily: 2 times
+
+eyed: 2 times
+
+bun: 2 times
+
+across: 2 times
+
+walk: 2 times
+
+mood: 2 times
+
+bit: 2 times
+
+telephone: 2 times
+
+important: 2 times
+
+different: 2 times
+
+however: 2 times
+
+overhead: 2 times
+
+sped: 2 times
+
+open: 2 times
+
+broad: 2 times
+
+concentrate: 2 times
+
+harder: 2 times
+
+office: 2 times
+
+always: 2 times
+
+moved: 2 times
+
+collecting: 2 times
+
+older: 2 times
+
+together: 2 times
+
+excitedly: 2 times
+
+whispering: 2 times
+
+quite: 2 times
+
+clothes: 2 times
+
+funny: 2 times
+
+traffic: 2 times
+
+edge: 2 times
+
+cats: 2 times
+
+watched: 2 times
+
+drove: 2 times
+
+stared: 2 times
+
+blinked: 2 times
+
+thinking: 2 times
+
+sight: 2 times
+
+standing: 2 times
+
+jerked: 2 times
+
+reading: 2 times
+
+first: 2 times
+
+goodbye: 2 times
+
+kiss: 2 times
+
+screaming: 2 times
+
+picked: 2 times
+
+country: 2 times
+
+happening: 2 times
+
+soon: 2 times
+
+child: 2 times
+
+want: 2 times
+
+knew: 2 times
+
+pretended: 2 times
+
+fact: 2 times
+
+several: 2 times
+
+hadnt: 2 times
+
+anyone: 2 times
+
+fear: 2 times
+
+secret: 2 times
+
+also: 2 times
+
+wanted: 2 times
+
+neighbors: 2 times
+
+usual: 2 times
+
+nearly: 2 times
+
+thin: 2 times
+
+mustache: 2 times
+
+although: 2 times
+
+neck: 2 times
+
+hardly: 2 times
+
+big: 2 times
+
+grunnings: 2 times
+
+nonsense: 2 times
+
+strange: 2 times
+
+involved: 2 times
+
+thank: 2 times
+
+perfectly: 2 times
+
+lived: 2 times
+
+voices: 1 times
+
+hushed: 1 times
+
+meeting: 1 times
+
+cousin: 1 times
+
+pinched: 1 times
+
+prodded: 1 times
+
+weeks: 1 times
+
+spend: 1 times
+
+bottles: 1 times
+
+milk: 1 times
+
+scream: 1 times
+
+hours: 1 times
+
+woken: 1 times
+
+special: 1 times
+
+slept: 1 times
+
+beside: 1 times
+
+closed: 1 times
+
+hand: 1 times
+
+waking: 1 times
+
+without: 1 times
+
+rolled: 1 times
+
+happen: 1 times
+
+astonishing: 1 times
+
+inky: 1 times
+
+tidy: 1 times
+
+silent: 1 times
+
+hedges: 1 times
+
+neat: 1 times
+
+breeze: 1 times
+
+swish: 1 times
+
+heel: 1 times
+
+murmured: 1 times
+
+luck: 1 times
+
+step: 1 times
+
+slinking: 1 times
+
+make: 1 times
+
+orange: 1 times
+
+glowed: 1 times
+
+lamps: 1 times
+
+balls: 1 times
+
+once: 1 times
+
+reply: 1 times
+
+blew: 1 times
+
+nodding: 1 times
+
+shall: 1 times
+
+rose: 1 times
+
+engine: 1 times
+
+kicked: 1 times
+
+onto: 1 times
+
+swung: 1 times
+
+sleeve: 1 times
+
+jacket: 1 times
+
+streaming: 1 times
+
+wiping: 1 times
+
+gnight: 1 times
+
+bike: 1 times
+
+takin: 1 times
+
+muffled: 1 times
+
+yeah: 1 times
+
+celebrations: 1 times
+
+join: 1 times
+
+go: 1 times
+
+staying: 1 times
+
+business: 1 times
+
+dumbledores: 1 times
+
+shone: 1 times
+
+usually: 1 times
+
+twinkling: 1 times
+
+furiously: 1 times
+
+shook: 1 times
+
+shoulders: 1 times
+
+three: 1 times
+
+minute: 1 times
+
+full: 1 times
+
+harrys: 1 times
+
+tucked: 1 times
+
+doorstep: 1 times
+
+laid: 1 times
+
+stepped: 1 times
+
+arm: 1 times
+
+gingerly: 1 times
+
+patting: 1 times
+
+grip: 1 times
+
+sad: 1 times
+
+ter: 1 times
+
+poor: 1 times
+
+stand: 1 times
+
+cccant: 1 times
+
+burying: 1 times
+
+taking: 1 times
+
+sobbed: 1 times
+
+sssorry: 1 times
+
+wake: 1 times
+
+youll: 1 times
+
+hissed: 1 times
+
+shhh: 1 times
+
+dog: 1 times
+
+wounded: 1 times
+
+howl: 1 times
+
+whiskery: 1 times
+
+scratchy: 1 times
+
+shaggy: 1 times
+
+wed: 1 times
+
+give: 1 times
+
+underground: 1 times
+
+london: 1 times
+
+perfect: 1 times
+
+knee: 1 times
+
+above: 1 times
+
+myself: 1 times
+
+handy: 1 times
+
+scars: 1 times
+
+forever: 1 times
+
+scar: 1 times
+
+lightning: 1 times
+
+bolt: 1 times
+
+cut: 1 times
+
+shaped: 1 times
+
+curiously: 1 times
+
+forehead: 1 times
+
+jetblack: 1 times
+
+tuft: 1 times
+
+fast: 1 times
+
+visible: 1 times
+
+forward: 1 times
+
+bristol: 1 times
+
+flyin: 1 times
+
+swarmin: 1 times
+
+started: 1 times
+
+destroyed: 1 times
+
+lent: 1 times
+
+carefully: 1 times
+
+climbing: 1 times
+
+giant: 1 times
+
+borrowed: 1 times
+
+relieved: 1 times
+
+muscular: 1 times
+
+vast: 1 times
+
+dolphins: 1 times
+
+leather: 1 times
+
+lids: 1 times
+
+trash: 1 times
+
+size: 1 times
+
+hid: 1 times
+
+bushy: 1 times
+
+tangles: 1 times
+
+wild: 1 times
+
+simply: 1 times
+
+astride: 1 times
+
+landed: 1 times
+
+swelled: 1 times
+
+headlight: 1 times
+
+louder: 1 times
+
+steadily: 1 times
+
+grew: 1 times
+
+silence: 1 times
+
+sound: 1 times
+
+rumbling: 1 times
+
+tend: 1 times
+
+does: 1 times
+
+pretend: 1 times
+
+grudgingly: 1 times
+
+wise: 1 times
+
+bringing: 1 times
+
+underneath: 1 times
+
+hiding: 1 times
+
+getting: 1 times
+
+course: 1 times
+
+swallowed: 1 times
+
+mouth: 1 times
+
+take: 1 times
+
+ready: 1 times
+
+growing: 1 times
+
+cara: 1 times
+
+remember: 1 times
+
+talk: 1 times
+
+boys: 1 times
+
+turn: 1 times
+
+top: 1 times
+
+seriously: 1 times
+
+world: 1 times
+
+books: 1 times
+
+future: 1 times
+
+surprised: 1 times
+
+legend: 1 times
+
+understand: 1 times
+
+faintly: 1 times
+
+repeated: 1 times
+
+firmly: 1 times
+
+best: 1 times
+
+sweets: 1 times
+
+mother: 1 times
+
+kicking: 1 times
+
+less: 1 times
+
+pointing: 1 times
+
+jumping: 1 times
+
+cried: 1 times
+
+family: 1 times
+
+bring: 1 times
+
+places: 1 times
+
+id: 1 times
+
+late: 1 times
+
+moving: 1 times
+
+planets: 1 times
+
+numbers: 1 times
+
+odd: 1 times
+
+examined: 1 times
+
+golden: 1 times
+
+sniff: 1 times
+
+beneath: 1 times
+
+dabbed: 1 times
+
+lace: 1 times
+
+guess: 1 times
+
+survive: 1 times
+
+heaven: 1 times
+
+stop: 1 times
+
+astounding: 1 times
+
+killed: 1 times
+
+done: 1 times
+
+faltered: 1 times
+
+glumly: 1 times
+
+nodded: 1 times
+
+broke: 1 times
+
+somehow: 1 times
+
+power: 1 times
+
+trembled: 1 times
+
+mcgonagalls: 1 times
+
+heavily: 1 times
+
+shoulder: 1 times
+
+patted: 1 times
+
+gasped: 1 times
+
+bowed: 1 times
+
+rumor: 1 times
+
+hollow: 1 times
+
+godrics: 1 times
+
+pressed: 1 times
+
+answer: 1 times
+
+choosing: 1 times
+
+plain: 1 times
+
+piercing: 1 times
+
+neither: 1 times
+
+hard: 1 times
+
+cold: 1 times
+
+real: 1 times
+
+discuss: 1 times
+
+anxious: 1 times
+
+shot: 1 times
+
+earmuffs: 1 times
+
+liked: 1 times
+
+pomfrey: 1 times
+
+madam: 1 times
+
+blushed: 1 times
+
+lucky: 1 times
+
+use: 1 times
+
+noble: 1 times
+
+powers: 1 times
+
+calmly: 1 times
+
+flatter: 1 times
+
+youknow: 1 times
+
+admiring: 1 times
+
+exasperated: 1 times
+
+t: 1 times
+
+haven: 1 times
+
+keep: 1 times
+
+confusing: 1 times
+
+gets: 1 times
+
+unsticking: 1 times
+
+flinched: 1 times
+
+proper: 1 times
+
+persuade: 1 times
+
+knowwho: 1 times
+
+person: 1 times
+
+sensible: 1 times
+
+surely: 1 times
+
+coldly: 1 times
+
+fond: 1 times
+
+sweet: 1 times
+
+care: 1 times
+
+thankful: 1 times
+
+certainly: 1 times
+
+fine: 1 times
+
+glance: 1 times
+
+sideways: 1 times
+
+threw: 1 times
+
+swapping: 1 times
+
+streets: 1 times
+
+downright: 1 times
+
+heads: 1 times
+
+lose: 1 times
+
+irritably: 1 times
+
+celebrate: 1 times
+
+precious: 1 times
+
+diggle: 1 times
+
+dedalus: 1 times
+
+bet: 1 times
+
+bound: 1 times
+
+completely: 1 times
+
+flocks: 1 times
+
+livingroom: 1 times
+
+somethings: 1 times
+
+careful: 1 times
+
+theyd: 1 times
+
+impatiently: 1 times
+
+sniffed: 1 times
+
+parties: 1 times
+
+feasts: 1 times
+
+dozen: 1 times
+
+brick: 1 times
+
+stiff: 1 times
+
+ve: 1 times
+
+distinctly: 1 times
+
+tight: 1 times
+
+drawn: 1 times
+
+emerald: 1 times
+
+shape: 1 times
+
+square: 1 times
+
+severelooking: 1 times
+
+smiling: 1 times
+
+seeing: 1 times
+
+fancy: 1 times
+
+slipped: 1 times
+
+pavement: 1 times
+
+beadyeyed: 1 times
+
+distance: 1 times
+
+pinpricks: 1 times
+
+whole: 1 times
+
+lights: 1 times
+
+darkness: 1 times
+
+flickered: 1 times
+
+pop: 1 times
+
+nearest: 1 times
+
+held: 1 times
+
+flicked: 1 times
+
+lighter: 1 times
+
+cigarette: 1 times
+
+muttered: 1 times
+
+chuckled: 1 times
+
+amuse: 1 times
+
+rummaging: 1 times
+
+busy: 1 times
+
+unwelcome: 1 times
+
+mans: 1 times
+
+crooked: 1 times
+
+behind: 1 times
+
+sparkling: 1 times
+
+bright: 1 times
+
+blue: 1 times
+
+buckled: 1 times
+
+highheeled: 1 times
+
+swept: 1 times
+
+purple: 1 times
+
+robes: 1 times
+
+belt: 1 times
+
+tuck: 1 times
+
+judging: 1 times
+
+narrowed: 1 times
+
+twitched: 1 times
+
+tail: 1 times
+
+popped: 1 times
+
+silently: 1 times
+
+midnight: 1 times
+
+swooped: 1 times
+
+slammed: 1 times
+
+quiver: 1 times
+
+unblinkingly: 1 times
+
+statue: 1 times
+
+sleepiness: 1 times
+
+showing: 1 times
+
+sleep: 1 times
+
+drifting: 1 times
+
+wrong: 1 times
+
+affect: 1 times
+
+yawned: 1 times
+
+mixed: 1 times
+
+near: 1 times
+
+comforting: 1 times
+
+turning: 1 times
+
+awake: 1 times
+
+quickly: 1 times
+
+pair: 1 times
+
+related: 1 times
+
+peered: 1 times
+
+bedroom: 1 times
+
+crept: 1 times
+
+bathroom: 1 times
+
+while: 1 times
+
+upstairs: 1 times
+
+subject: 1 times
+
+agree: 1 times
+
+horribly: 1 times
+
+sinking: 1 times
+
+ask: 1 times
+
+common: 1 times
+
+nasty: 1 times
+
+howard: 1 times
+
+whats: 1 times
+
+age: 1 times
+
+dudleys: 1 times
+
+casually: 1 times
+
+dare: 1 times
+
+decided: 1 times
+
+dared: 1 times
+
+whether: 1 times
+
+lips: 1 times
+
+pursed: 1 times
+
+through: 1 times
+
+sipped: 1 times
+
+crowd: 1 times
+
+maybe: 1 times
+
+funnylooking: 1 times
+
+mumbled: 1 times
+
+stuff: 1 times
+
+sharply: 1 times
+
+angry: 1 times
+
+shocked: 1 times
+
+expected: 1 times
+
+lately: 1 times
+
+your: 1 times
+
+er: 1 times
+
+nervously: 1 times
+
+throat: 1 times
+
+cleared: 1 times
+
+cups: 1 times
+
+carrying: 1 times
+
+britain: 1 times
+
+armchair: 1 times
+
+frozen: 1 times
+
+wet: 1 times
+
+promise: 1 times
+
+folks: 1 times
+
+week: 1 times
+
+early: 1 times
+
+bonfire: 1 times
+
+perhaps: 1 times
+
+downpour: 1 times
+
+yesterday: 1 times
+
+promised: 1 times
+
+rain: 1 times
+
+phoning: 1 times
+
+dundee: 1 times
+
+yorkshire: 1 times
+
+apart: 1 times
+
+viewers: 1 times
+
+oddly: 1 times
+
+acting: 1 times
+
+weatherman: 1 times
+
+ted: 1 times
+
+showers: 1 times
+
+weather: 1 times
+
+mcguffin: 1 times
+
+grin: 1 times
+
+newscaster: 1 times
+
+pattern: 1 times
+
+sleeping: 1 times
+
+unable: 1 times
+
+experts: 1 times
+
+sunrise: 1 times
+
+direction: 1 times
+
+birds: 1 times
+
+sightings: 1 times
+
+hundreds: 1 times
+
+hunt: 1 times
+
+unusually: 1 times
+
+behaving: 1 times
+
+nations: 1 times
+
+reported: 1 times
+
+everywhere: 1 times
+
+birdwatchers: 1 times
+
+evening: 1 times
+
+report: 1 times
+
+catch: 1 times
+
+act: 1 times
+
+learned: 1 times
+
+daughter: 1 times
+
+doors: 1 times
+
+dinner: 1 times
+
+nice: 1 times
+
+wife: 1 times
+
+determined: 1 times
+
+pull: 1 times
+
+behavior: 1 times
+
+stern: 1 times
+
+move: 1 times
+
+loudly: 1 times
+
+shoo: 1 times
+
+improve: 1 times
+
+driveway: 1 times
+
+imagination: 1 times
+
+approve: 1 times
+
+hoped: 1 times
+
+rattled: 1 times
+
+stranger: 1 times
+
+complete: 1 times
+
+spot: 1 times
+
+rooted: 1 times
+
+middle: 1 times
+
+rejoice: 1 times
+
+passersby: 1 times
+
+squeaky: 1 times
+
+split: 1 times
+
+contrary: 1 times
+
+knocked: 1 times
+
+violet: 1 times
+
+realized: 1 times
+
+seconds: 1 times
+
+stumbled: 1 times
+
+grunted: 1 times
+
+someone: 1 times
+
+straight: 1 times
+
+worried: 1 times
+
+oclock: 1 times
+
+building: 1 times
+
+afternoon: 1 times
+
+those: 1 times
+
+worrying: 1 times
+
+harold: 1 times
+
+harvey: 1 times
+
+nephew: 1 times
+
+lots: 1 times
+
+unusual: 1 times
+
+stroked: 1 times
+
+receiver: 1 times
+
+dialing: 1 times
+
+finished: 1 times
+
+seized: 1 times
+
+disturb: 1 times
+
+secretary: 1 times
+
+dashed: 1 times
+
+whisperers: 1 times
+
+flooded: 1 times
+
+words: 1 times
+
+caught: 1 times
+
+bag: 1 times
+
+doughnut: 1 times
+
+clutching: 1 times
+
+tin: 1 times
+
+single: 1 times
+
+bunch: 1 times
+
+bakers: 1 times
+
+group: 1 times
+
+forgotten: 1 times
+
+bakery: 1 times
+
+buy: 1 times
+
+legs: 1 times
+
+stretch: 1 times
+
+lunchtime: 1 times
+
+shouted: 1 times
+
+calls: 1 times
+
+yelled: 1 times
+
+owlfree: 1 times
+
+nighttime: 1 times
+
+mouthed: 1 times
+
+gazed: 1 times
+
+pointed: 1 times
+
+ing: 1 times
+
+swoop: 1 times
+
+floor: 1 times
+
+ninth: 1 times
+
+parking: 1 times
+
+later: 1 times
+
+minutes: 1 times
+
+obviously: 1 times
+
+stunt: 1 times
+
+silly: 1 times
+
+probably: 1 times
+
+struck: 1 times
+
+nerve: 1 times
+
+emeraldgreen: 1 times
+
+than: 1 times
+
+werent: 1 times
+
+couple: 1 times
+
+enraged: 1 times
+
+close: 1 times
+
+weirdos: 1 times
+
+huddle: 1 times
+
+wheel: 1 times
+
+steering: 1 times
+
+fingers: 1 times
+
+drummed: 1 times
+
+fashion: 1 times
+
+supposed: 1 times
+
+getups: 1 times
+
+strangely: 1 times
+
+noticing: 1 times
+
+help: 1 times
+
+jam: 1 times
+
+else: 1 times
+
+driven: 1 times
+
+order: 1 times
+
+except: 1 times
+
+shake: 1 times
+
+signs: 1 times
+
+maps: 1 times
+
+read: 1 times
+
+mirror: 1 times
+
+trick: 1 times
+
+second: 1 times
+
+peculiar: 1 times
+
+fours: 1 times
+
+backed: 1 times
+
+chortled: 1 times
+
+tyke: 1 times
+
+walls: 1 times
+
+cereal: 1 times
+
+throwing: 1 times
+
+tantrum: 1 times
+
+having: 1 times
+
+missed: 1 times
+
+cheek: 1 times
+
+pecked: 1 times
+
+briefcase: 1 times
+
+eight: 1 times
+
+flutter: 1 times
+
+tawny: 1 times
+
+none: 1 times
+
+chair: 1 times
+
+high: 1 times
+
+wrestled: 1 times
+
+happily: 1 times
+
+gossiped: 1 times
+
+work: 1 times
+
+tie: 1 times
+
+boring: 1 times
+
+hummed: 1 times
+
+suggest: 1 times
+
+cloudy: 1 times
+
+starts: 1 times
+
+story: 1 times
+
+tuesday: 1 times
+
+gray: 1 times
+
+dull: 1 times
+
+woke: 1 times
+
+mixing: 1 times
+
+keeping: 1 times
+
+shuddered: 1 times
+
+possible: 1 times
+
+undursleyish: 1 times
+
+husband: 1 times
+
+goodfornothing: 1 times
+
+met: 1 times
+
+discover: 1 times
+
+somebody: 1 times
+
+greatest: 1 times
+
+anywhere: 1 times
+
+finer: 1 times
+
+opinion: 1 times
+
+spying: 1 times
+
+fences: 1 times
+
+craning: 1 times
+
+spent: 1 times
+
+useful: 1 times
+
+amount: 1 times
+
+blonde: 1 times
+
+beefy: 1 times
+
+firm: 1 times
+
+director: 1 times
+
+hold: 1 times
+
+proud: 1 times
+
+chapter: 1 times
+
+stone: 1 times
+
+sorcerers: 1 times
+
